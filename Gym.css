@@ -1,0 +1,103 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    background-image: url("gym2.jpg");
+    height: 100vh;
+    background-size: cover;
+}
+
+.container-fluid{
+    display: inline-block;
+    align-items: center;
+}
+
+.container-fluid li{
+    display: inline-block;
+    font-size: 20px;
+    align-items: center;
+}
+
+.form-control{
+    border-radius: 5px;
+    width: 300px;
+    box-sizing: border-box;
+    text-align: left;
+}
+
+.btn{
+    font-family: sans-serif;
+    margin: auto;
+    background-color: black ;
+    color: orange;
+    padding: 4px 14px;
+    border: 2px solid grey;
+    text-shadow: orange;
+    border-radius: 10px;
+    font-size: 20px;
+    height:40px ;
+    cursor: pointer;
+    align-items: center;
+    float: right;
+}
+
+.right .btn{
+    color: orange;
+}
+
+.btn:hover{
+    background-color: black;
+}
+
+.container{
+    border: 2px solid black;
+    margin: 100px 70px;
+    padding: 40px;
+    width: 35%;
+    border-radius: 28px;
+}
+
+.form-group input{
+    font-family: sans-serif;
+    text-align: center;
+    background-color: rgb(245, 236, 239);
+    color: rgb(150, 140, 140);
+    display: block;
+    padding: 1px;
+    width: 74%;
+    height: 40%;
+    border: 2px solid black;
+    margin: 11px auto;
+    font-size: 25px;
+    border-radius: 8px;
+}
+
+.btn1{
+    font-family: sans-serif;
+    margin: auto;
+    background-color: black ;
+    color: orange;
+    display: block;
+    padding: 1px;
+    width: 74%;
+    height: 40%;
+    border: 2px solid gray;
+    margin: 11px auto;
+    font-size: 25px;
+    border-radius: 8px;
+    cursor: pointer;
+    align-items: center;
+}
+
+.container{
+    text-align: center;
+    background: black;
+    color: orange;
+}
+
+.container input{
+    color: black;
+}
+
+
+
+

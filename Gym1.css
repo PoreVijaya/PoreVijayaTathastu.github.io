@@ -1,0 +1,69 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    background-image: url("img1.jpg");
+    background-size: cover;
+}
+
+.container{
+    border: 2px solid black;
+    margin: 80px 60px;
+    padding: 30px;
+    width: 400px;
+    height: 500px;
+    border-radius: 25px;
+    text-align: center;
+    color: orange;
+    background-color: black;
+    float: left;
+    
+}
+
+.container1{
+    border: 2px solid black;
+    margin: 80px 60px;
+    padding: 40px;
+    width: 400px;
+    height: 500px;
+    border-radius: 25px;
+    text-align: center;
+    color: orange;
+    background-color: black;
+    float: right;
+    
+}
+
+.container2{
+    border: 2px solid black;
+    margin: 80px 60px;
+    padding: 30px;
+    width: 350px;
+    height: 500px;
+    border-radius: 25px;
+    text-align: center;
+    color: orange;
+    background-color: black;
+    float: left;
+}
+
+.fit{
+    text-align: center;
+    color: black;
+    font-size: 50px;
+}
+
+.a{
+    font-size: 20px;
+}
+
+.b{
+    font-size: 20px;
+}
+
+.c{
+    font-size: 20px;
+}
+
+.d{
+    font-size: 20px;
+}
